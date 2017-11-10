@@ -23,4 +23,10 @@ compile 'com.github.YUNEEC:Yuneec-RTSP-Player-Android:v0.1'
 ```
 where X.Y.Z is the version to select.
 
+## Tutorial
+
+For more details on usage of this library, please refer https://developer.yuneec.com/documentation/120/Live-Video-Streaming.
+
+## License 
+
 The source code in this repository is published under the [BSD 3-Clause license](LICENSE).
