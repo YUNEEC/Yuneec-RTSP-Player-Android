@@ -19,9 +19,13 @@ allprojects {
 Then, add the dependency to the app's `build.gradle`:
 
 ```
-compile 'com.github.YUNEEC:Yuneec-RTSP-Player-Android:v0.1'
+compile 'com.github.YUNEEC:Yuneec-RTSP-Player-Android:X.Y.Z'
 ```
 where X.Y.Z is the version to select.
+
+To see all the available versions, go to [Jitpack](https://jitpack.io). In the look up box paste YUNEEC/Yuneec-RTSP-Player-Android.
+
+Please choose the latest version of the SDK to integrate with your project.
 
 ## Tutorial
 
