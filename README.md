@@ -30,3 +30,5 @@ For more details on usage of this library, please refer https://developer.yuneec
 ## License 
 
 The source code in this repository is published under the [BSD 3-Clause license](LICENSE).
+
+Yuneec-RTSP-Player-Android uses libraries of IJKPlayer licensed under the LGPLv2.1. The source code of these libraries, the compilation instructions, and the LGPL v2.1 license are provided in [Github](https://github.com/YUNEEC/videostreamplayer).
