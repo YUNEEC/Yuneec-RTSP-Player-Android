@@ -25,7 +25,7 @@ where X.Y.Z is the version to select.
 
 To see all the available versions, go to [Jitpack](https://jitpack.io). In the look up box paste YUNEEC/Yuneec-RTSP-Player-Android.
 
-Please choose the latest version of the SDK to integrate with your project.
+Please choose the latest version of the library to integrate with your project.
 
 ## Tutorial
 
